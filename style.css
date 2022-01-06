@@ -10,10 +10,10 @@ h1{
     font-size: 30px;
 }
 .my-mission-color{
-    color: #1717cc;
+    color: #1916cc;
 }
 .year-2022-color{
-    color: #1717cc;
+    color: rgb(27, 30, 201);
 }
 .mission-22{
     text-align: center;
@@ -100,6 +100,14 @@ h1{
 }
 .second-section-margin{
     margin-bottom: 2%;
+}
+.sec3-backimg{
+    background-image: url(images/shapes/shape-6.png);
+    
+}
+.sec4-backimg{
+    background-image: url(images/shapes/shape-7.png);
+    
 }
 
 
